@@ -1,6 +1,6 @@
-package com.ljh.pattern.factoryPattern.SimpleFactory;
+package com.tj.pattern.factoryPattern.SimpleFactory;
 
-import com.ljh.pattern.factoryPattern.ICourse;
+import com.tj.pattern.factoryPattern.ICourse;
 
 /**
  * 2019/9/13

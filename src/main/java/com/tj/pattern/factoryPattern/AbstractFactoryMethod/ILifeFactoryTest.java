@@ -1,9 +1,9 @@
-package com.ljh.pattern.factoryPattern.AbstractFactoryMethod;
+package com.tj.pattern.factoryPattern.AbstractFactoryMethod;
 
-import com.ljh.pattern.factoryPattern.AbstractFactoryMethod.impl.LifeJavaFactory;
-import com.ljh.pattern.factoryPattern.AbstractFactoryMethod.impl.LifePythonFactory;
-import com.ljh.pattern.factoryPattern.ICourse;
-import com.ljh.pattern.factoryPattern.IWork;
+import com.tj.pattern.factoryPattern.AbstractFactoryMethod.impl.LifeJavaFactory;
+import com.tj.pattern.factoryPattern.AbstractFactoryMethod.impl.LifePythonFactory;
+import com.tj.pattern.factoryPattern.ICourse;
+import com.tj.pattern.factoryPattern.IWork;
 
 /**
  * 2019/9/17

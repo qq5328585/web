@@ -1,8 +1,8 @@
-package com.ljh.pattern.factoryPattern.SimpleFactory;
+package com.tj.pattern.factoryPattern.SimpleFactory;
 
-import com.ljh.pattern.factoryPattern.ICourse;
-import com.ljh.pattern.factoryPattern.JavaCourse;
-import com.ljh.pattern.factoryPattern.PythonCourse;
+import com.tj.pattern.factoryPattern.ICourse;
+import com.tj.pattern.factoryPattern.JavaCourse;
+import com.tj.pattern.factoryPattern.PythonCourse;
 
 /**
  * 2019/9/13

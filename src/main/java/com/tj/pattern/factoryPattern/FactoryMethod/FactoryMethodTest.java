@@ -1,8 +1,8 @@
-package com.ljh.pattern.factoryPattern.FactoryMethod;
+package com.tj.pattern.factoryPattern.FactoryMethod;
 
-import com.ljh.pattern.factoryPattern.FactoryMethod.impl.FactoryJavaCourseMethod;
-import com.ljh.pattern.factoryPattern.FactoryMethod.impl.FactoryPythonCourseMethod;
-import com.ljh.pattern.factoryPattern.ICourse;
+import com.tj.pattern.factoryPattern.FactoryMethod.impl.FactoryJavaCourseMethod;
+import com.tj.pattern.factoryPattern.FactoryMethod.impl.FactoryPythonCourseMethod;
+import com.tj.pattern.factoryPattern.ICourse;
 
 /**
  * 2019/9/13

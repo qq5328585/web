@@ -1,4 +1,4 @@
-package com.ljh.Thread;
+package com.tj.Thread;
 
 /**
  * 2019/9/10
