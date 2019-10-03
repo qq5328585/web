@@ -1,5 +1,7 @@
 package com.tj;
 
+import com.tj.staticClass.ProtectedClass;
+
 /**
  * 2019/8/31
  * author:ljh
@@ -13,5 +15,15 @@ public class Test {
         System.out.println(u1);
         System.out.println(u2);
         System.out.println(u1.getUser(u2));
+        //不同包下protected无法使用
+//        ProtectedClass pc = new ProtectedClass();
+//        pc.test();
+
+        int i = 0;
+        System.out.println(i);
+        System.out.println(--i + i + ++i);
+        System.out.println(i);
+
+        User.test();
     }
 }

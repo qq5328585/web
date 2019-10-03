@@ -36,4 +36,8 @@ public class User {
     public User getUser(User user) {
         return  user;
     }
+
+    public static void test(){
+        System.out.println("test");
+    }
 }
