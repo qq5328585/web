@@ -7,7 +7,7 @@ import java.io.Serializable;
  * author:ljh
  */
 public class SeriableSingleton implements Serializable {
-    public static final SeriableSingleton s = new SeriableSingleton();
+    private static final SeriableSingleton s = new SeriableSingleton();
 
     private SeriableSingleton() {}
 

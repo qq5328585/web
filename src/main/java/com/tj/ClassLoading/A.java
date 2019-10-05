@@ -8,7 +8,7 @@ public class A extends  B{
     public int a = 100;
 
     public A() {
-        super();
+        super("111111");
         System.out.println("A a: " + a);
         a = 200;
     }
@@ -25,4 +25,11 @@ class B {
         System.out.println("b: " + b);
         System.out.println(((A)this).a);
     }
+
+    public B(String c) {
+        b = c;
+        System.out.println("b: " + b);
+        System.out.println(((A)this).a);
+    }
+
 }

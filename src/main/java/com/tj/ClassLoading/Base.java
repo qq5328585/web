@@ -5,7 +5,7 @@ package com.tj.ClassLoading;
  * author:ljh
  */
 public class Base {
-    private String baseName = "base";
+    String baseName = "base";
 
     public Base() {
         callName();
@@ -16,7 +16,7 @@ public class Base {
     }
 
     static class Sub extends Base {
-        private String baseName = "sub";
+//        private String baseName = "sub";
 
         @Override
         public void callName() {

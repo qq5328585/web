@@ -1,4 +1,4 @@
-package com.tj.pattern.singletonPattern.lazyPattern.staticLazyPattern.enumSingleton;
+package com.tj.pattern.singletonPattern.enumSingleton;
 
 /**
  * 2019/9/28
