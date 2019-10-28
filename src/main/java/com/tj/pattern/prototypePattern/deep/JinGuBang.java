@@ -1,4 +1,4 @@
-package com.tj.pattern.prototype.deep;
+package com.tj.pattern.prototypePattern.deep;
 
 import java.io.Serializable;
 

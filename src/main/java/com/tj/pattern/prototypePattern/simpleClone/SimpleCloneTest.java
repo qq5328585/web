@@ -1,4 +1,4 @@
-package com.tj.pattern.prototype.simpleClone;
+package com.tj.pattern.prototypePattern.simpleClone;
 
 import java.util.ArrayList;
 import java.util.Date;

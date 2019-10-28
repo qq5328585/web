@@ -1,4 +1,4 @@
-package com.tj.pattern.prototype.deepClone;
+package com.tj.pattern.prototypePattern.deepClone;
 
 import java.util.Date;
 

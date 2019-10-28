@@ -1,4 +1,4 @@
-package com.tj.pattern.prototype.simpleClone;
+package com.tj.pattern.prototypePattern.simpleClone;
 
 /**
  * 2019/10/5
